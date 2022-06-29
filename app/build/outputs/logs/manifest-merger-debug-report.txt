@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [:posenet] C:\Users\dydgh\AndroidStudioProjects\FitSum\android\posenet\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\0a0995dd73e5484174ed7ca481ff8c5e\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\062c16ebc2484fda64c10d72cf7d88cb\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dydgh\.gradle\caches\transforms-3\ef4c2d2c4aff7de6402b858daac8343e\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] C:\Users\dydgh\.gradle\caches\transforms-3\b6f895ec93db6076081e49cd8dc4b641\transformed\tensorflow-lite-2.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\dydgh\.gradle\caches\transforms-3\fd667d151b506e210b00c335a8d2e679\transformed\autoimageslider-1.4.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\dydgh\.gradle\caches\transforms-3\4cb598655fd6e57376c35dac79305deb\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.17.1] C:\Users\dydgh\.gradle\caches\transforms-3\7211759a276ab37bebf4032f25b76bb8\transformed\filament-android-1.17.1\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\da7dccd7fdc5bbb9e1133602f0f85a5b\transformed\tensorflow-lite-gpu-2.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\0055a5a066c2b44b1c526caebab53a59\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\f23b364253746a33e3b0404a937f68ed\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\3e18208d52448324fddcf534f8f9e942\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\09fad86fb523cd1c5b3f5afca75a9cd8\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\69119d79a4348a0bcf3002ad12f6c6d2\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\8147dafe127499c236cac4895f204139\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\fb80f00a23fffa0ca1d80cea26193e32\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\2a899151a7f443d5789293be2e4dc37c\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\6424ad90cdf2ab31aba572736103fe6d\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\b06f2d1ba3462bb68e9b7d851066eef0\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e6985aa25712f93a572c12070e485b61\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\fbbed37499c78eaa5268371aa59b522f\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\19713f677e26a3e9d6f9ba0187cd13ca\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\3ad7cd03a8e7f1e203da9ddbbeaba127\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\fe1f4c60f92b5c8dcd8281338d848ab9\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e3776153f3be69f045384d16edd3e096\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\22beb6bf105cfbe3f8c3985f22c8b980\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\f1d191b1dfa0a01fc9ec0433fdbd7158\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\7a1e97f72675d23c93d8a59fd7d8fa6c\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\c8c5b09f89f19e0866267ace381d9c43\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\c6aaeada31b5a9cfc584f672caa2d0e4\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\997849c28ebd1682212415efcedaab43\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\9e2566fc3fa0694449a1e69f1b1d65c0\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\a25ecdc122d2790d0d4c34cb1dd5ae79\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\3b2d74c8ef8548045f260910725e7d12\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\b0a276f844a9da77b15827344eaf6077\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\b5de6a183d3e43ae61bfb38799e05235\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\9925dccb1babee6de2c28f35c79aa2f8\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:6:3-63
+	android:name
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:6:20-60
+uses-feature#android.hardware.camera
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:8:3-58
+	android:name
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:8:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:9:3-68
+	android:name
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:9:17-65
+uses-sdk
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+MERGED from [:posenet] C:\Users\dydgh\AndroidStudioProjects\FitSum\android\posenet\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:posenet] C:\Users\dydgh\AndroidStudioProjects\FitSum\android\posenet\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\0a0995dd73e5484174ed7ca481ff8c5e\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\0a0995dd73e5484174ed7ca481ff8c5e\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\062c16ebc2484fda64c10d72cf7d88cb\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\062c16ebc2484fda64c10d72cf7d88cb\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dydgh\.gradle\caches\transforms-3\ef4c2d2c4aff7de6402b858daac8343e\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dydgh\.gradle\caches\transforms-3\ef4c2d2c4aff7de6402b858daac8343e\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] C:\Users\dydgh\.gradle\caches\transforms-3\b6f895ec93db6076081e49cd8dc4b641\transformed\tensorflow-lite-2.1.0\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] C:\Users\dydgh\.gradle\caches\transforms-3\b6f895ec93db6076081e49cd8dc4b641\transformed\tensorflow-lite-2.1.0\AndroidManifest.xml:5:5-6:41
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\dydgh\.gradle\caches\transforms-3\fd667d151b506e210b00c335a8d2e679\transformed\autoimageslider-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\dydgh\.gradle\caches\transforms-3\fd667d151b506e210b00c335a8d2e679\transformed\autoimageslider-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\dydgh\.gradle\caches\transforms-3\4cb598655fd6e57376c35dac79305deb\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\dydgh\.gradle\caches\transforms-3\4cb598655fd6e57376c35dac79305deb\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.ar.sceneform:filament-android:1.17.1] C:\Users\dydgh\.gradle\caches\transforms-3\7211759a276ab37bebf4032f25b76bb8\transformed\filament-android-1.17.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.17.1] C:\Users\dydgh\.gradle\caches\transforms-3\7211759a276ab37bebf4032f25b76bb8\transformed\filament-android-1.17.1\AndroidManifest.xml:7:5-9:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\da7dccd7fdc5bbb9e1133602f0f85a5b\transformed\tensorflow-lite-gpu-2.0.0\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\da7dccd7fdc5bbb9e1133602f0f85a5b\transformed\tensorflow-lite-gpu-2.0.0\AndroidManifest.xml:5:5-6:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\0055a5a066c2b44b1c526caebab53a59\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\0055a5a066c2b44b1c526caebab53a59\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\f23b364253746a33e3b0404a937f68ed\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\f23b364253746a33e3b0404a937f68ed\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\3e18208d52448324fddcf534f8f9e942\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\3e18208d52448324fddcf534f8f9e942\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\09fad86fb523cd1c5b3f5afca75a9cd8\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\09fad86fb523cd1c5b3f5afca75a9cd8\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\69119d79a4348a0bcf3002ad12f6c6d2\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\69119d79a4348a0bcf3002ad12f6c6d2\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\8147dafe127499c236cac4895f204139\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\8147dafe127499c236cac4895f204139\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\fb80f00a23fffa0ca1d80cea26193e32\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\fb80f00a23fffa0ca1d80cea26193e32\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\2a899151a7f443d5789293be2e4dc37c\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\2a899151a7f443d5789293be2e4dc37c\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\6424ad90cdf2ab31aba572736103fe6d\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\6424ad90cdf2ab31aba572736103fe6d\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\b06f2d1ba3462bb68e9b7d851066eef0\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\b06f2d1ba3462bb68e9b7d851066eef0\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e6985aa25712f93a572c12070e485b61\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e6985aa25712f93a572c12070e485b61\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\fbbed37499c78eaa5268371aa59b522f\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\fbbed37499c78eaa5268371aa59b522f\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\19713f677e26a3e9d6f9ba0187cd13ca\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\19713f677e26a3e9d6f9ba0187cd13ca\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\3ad7cd03a8e7f1e203da9ddbbeaba127\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\3ad7cd03a8e7f1e203da9ddbbeaba127\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\fe1f4c60f92b5c8dcd8281338d848ab9\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\fe1f4c60f92b5c8dcd8281338d848ab9\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e3776153f3be69f045384d16edd3e096\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e3776153f3be69f045384d16edd3e096\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\22beb6bf105cfbe3f8c3985f22c8b980\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\22beb6bf105cfbe3f8c3985f22c8b980\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\f1d191b1dfa0a01fc9ec0433fdbd7158\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\f1d191b1dfa0a01fc9ec0433fdbd7158\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\7a1e97f72675d23c93d8a59fd7d8fa6c\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\7a1e97f72675d23c93d8a59fd7d8fa6c\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\c8c5b09f89f19e0866267ace381d9c43\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\c8c5b09f89f19e0866267ace381d9c43\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\c6aaeada31b5a9cfc584f672caa2d0e4\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\c6aaeada31b5a9cfc584f672caa2d0e4\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\997849c28ebd1682212415efcedaab43\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\997849c28ebd1682212415efcedaab43\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\9e2566fc3fa0694449a1e69f1b1d65c0\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\9e2566fc3fa0694449a1e69f1b1d65c0\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\a25ecdc122d2790d0d4c34cb1dd5ae79\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\a25ecdc122d2790d0d4c34cb1dd5ae79\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\3b2d74c8ef8548045f260910725e7d12\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\3b2d74c8ef8548045f260910725e7d12\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\b0a276f844a9da77b15827344eaf6077\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\b0a276f844a9da77b15827344eaf6077\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\b5de6a183d3e43ae61bfb38799e05235\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\b5de6a183d3e43ae61bfb38799e05235\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\9925dccb1babee6de2c28f35c79aa2f8\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dydgh\.gradle\caches\transforms-3\9925dccb1babee6de2c28f35c79aa2f8\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+	android:targetSdkVersion
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+		MERGED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+		MERGED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+		INJECTED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:13:3-40:17
+MERGED from [com.android.support:design:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\0a0995dd73e5484174ed7ca481ff8c5e\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\0a0995dd73e5484174ed7ca481ff8c5e\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dydgh\.gradle\caches\transforms-3\ef4c2d2c4aff7de6402b858daac8343e\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dydgh\.gradle\caches\transforms-3\ef4c2d2c4aff7de6402b858daac8343e\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] C:\Users\dydgh\.gradle\caches\transforms-3\b6f895ec93db6076081e49cd8dc4b641\transformed\tensorflow-lite-2.1.0\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.1.0] C:\Users\dydgh\.gradle\caches\transforms-3\b6f895ec93db6076081e49cd8dc4b641\transformed\tensorflow-lite-2.1.0\AndroidManifest.xml:8:5-20
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\dydgh\.gradle\caches\transforms-3\fd667d151b506e210b00c335a8d2e679\transformed\autoimageslider-1.4.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\dydgh\.gradle\caches\transforms-3\fd667d151b506e210b00c335a8d2e679\transformed\autoimageslider-1.4.0\AndroidManifest.xml:11:5-15:19
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\da7dccd7fdc5bbb9e1133602f0f85a5b\transformed\tensorflow-lite-gpu-2.0.0\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\da7dccd7fdc5bbb9e1133602f0f85a5b\transformed\tensorflow-lite-gpu-2.0.0\AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e3776153f3be69f045384d16edd3e096\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e3776153f3be69f045384d16edd3e096\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\22beb6bf105cfbe3f8c3985f22c8b980\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\22beb6bf105cfbe3f8c3985f22c8b980\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e3776153f3be69f045384d16edd3e096\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:19:7-33
+	android:label
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:17:7-46
+		REJECTED from [com.github.smarteist:autoimageslider:1.4.0] C:\Users\dydgh\.gradle\caches\transforms-3\fd667d151b506e210b00c335a8d2e679\transformed\autoimageslider-1.4.0\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:18:7-52
+	android:icon
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:14:7-33
+	android:theme
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:20:7-74
+	tools:replace
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:16:7-36
+activity#com.miguelrochefort.fitnesscamera.TestActivity
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:22:5-26:16
+	android:label
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:24:9-48
+	android:exported
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:25:9-32
+	android:name
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:23:9-37
+activity#com.miguelrochefort.fitnesscamera.CameraActivity
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:28:5-30:16
+	android:exported
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:28:46-69
+	android:name
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:28:15-45
+activity#org.tensorflow.lite.examples.posenet.fitsum.FirstActivity
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:32:5-38:16
+	android:exported
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:32:88-111
+	android:name
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:32:15-87
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:33:7-36:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:34:9-60
+	android:name
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:34:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:35:9-68
+	android:name
+		ADDED from C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:35:19-66

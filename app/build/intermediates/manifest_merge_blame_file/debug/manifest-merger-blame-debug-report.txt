@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.miguelrochefort.fitnesscamera"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+8        android:minSdkVersion="21"
+8-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+9        android:targetSdkVersion="32" />
+9-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:11:3-15
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:6:3-63
+11-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:6:20-60
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:8:3-58
+13-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:8:17-55
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:9:3-68
+14-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:9:17-65
+15
+16    <application
+16-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:13:3-40:17
+17        android:allowBackup="true"
+17-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:14:7-33
+18        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+18-->[com.android.support:support-compat:28.0.0] C:\Users\dydgh\.gradle\caches\transforms-3\e3776153f3be69f045384d16edd3e096\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:15:7-41
+21        android:label="@string/tfe_pn_app_name"
+21-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:17:7-46
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:18:7-52
+23        android:supportsRtl="true"
+23-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:19:7-33
+24        android:testOnly="true"
+25        android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" >
+25-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:20:7-74
+26        <activity
+26-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:22:5-26:16
+27            android:name="com.miguelrochefort.fitnesscamera.TestActivity"
+27-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:23:9-37
+28            android:exported="true"
+28-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:25:9-32
+29            android:label="@string/tfe_pn_app_name" >
+29-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:24:9-48
+30        </activity>
+31        <activity
+31-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:28:5-30:16
+32            android:name="com.miguelrochefort.fitnesscamera.CameraActivity"
+32-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:28:15-45
+33            android:exported="true" >
+33-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:28:46-69
+34        </activity>
+35        <activity
+35-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:32:5-38:16
+36            android:name="org.tensorflow.lite.examples.posenet.fitsum.FirstActivity"
+36-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:32:15-87
+37            android:exported="true" >
+37-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:32:88-111
+38            <intent-filter>
+38-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:33:7-36:23
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:34:9-60
+39-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:34:17-58
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:35:9-68
+41-->C:\Users\dydgh\AndroidStudioProjects\FitSum\android\app\src\main\AndroidManifest.xml:35:19-66
+42            </intent-filter>
+43        </activity>
+44    </application>
+45
+46</manifest>
